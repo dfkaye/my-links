@@ -90,7 +90,7 @@ links to my gists and blog posts
 + [mocking, not testing, private functions](https://gist.github.com/dfkaye/5987716)
 + [data URIs in production question for @slicknet](https://gist.github.com/dfkaye/5948735)
 + [char-count for siftscience.com](https://gist.github.com/dfkaye/5886575)
-+ [script-api](https://gist.github.com/dfkaye/5367425)
++ [__script-api__: serviceable API for loading, caching, remove, refreshing and batching script tags asynchronously in the DOM](https://gist.github.com/dfkaye/5367425)
 + [should test 3rd party code](https://gist.github.com/dfkaye/5265019)
 + [testling, tape, github](https://gist.github.com/dfkaye/5225546)
 + [simple-path-normalize](https://gist.github.com/dfkaye/5017089)
