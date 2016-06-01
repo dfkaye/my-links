@@ -1,13 +1,13 @@
 # my-links
-links to my gists and blog posts
+links to my own gists and blog posts
 
-# posts
+# [posts](https://dfkaye.wordpress.com)
 + [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
-# gists
+# [gists](https://gist.github.com/dfkaye)
 + [make namespaces with `reduceRight`](https://gist.github.com/dfkaye/9407f5689858014f632356b1376a5261)
 + [__persistent data with structure sharing__ ~ mutable and immutable examples](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
 + [`enum` in javascript](https://gist.github.com/dfkaye/eb6cbe304c1d07164d7e4de7bff40795)
