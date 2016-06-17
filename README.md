@@ -75,6 +75,7 @@ links to my own gists and blog posts
 + [ap:packager](https://gist.github.com/dfkaye/8493821)
 + [ap:eventsource#subscribe](https://gist.github.com/dfkaye/8493708)
 + [customize chrome devtools](https://gist.github.com/dfkaye/8477825)
++ [answer to __jaroslav tulach__'s javascript quiz](https://gist.github.com/dfkaye/8426258)
 + [`Function()` constructor for batch processing](https://gist.github.com/dfkaye/8292964)
 + [`metafunction` with insane clj pattern](https://gist.github.com/dfkaye/7797707)
 + [__Insane__ Parenthetic Style](https://gist.github.com/dfkaye/7390424)
