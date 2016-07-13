@@ -8,6 +8,7 @@ links to my own gists and blog posts
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
 # [gists](https://gist.github.com/dfkaye)
++ [optimized solution for __@tevko__ kata](https://gist.github.com/dfkaye/7cdca108ac8bded963708dc64a7eb59c)
 + [handle-event-errors-test.html](https://gist.github.com/dfkaye/37258f6ec28e286b55108e423cf2713f) - "how does the dom really deal with event handler errors on a node with multiple listeners registered for the same event type? [ June 22, 2010 ]
 + [make namespaces with `reduceRight`](https://gist.github.com/dfkaye/9407f5689858014f632356b1376a5261)
 + [__persistent data with structure sharing__ ~ mutable and immutable examples](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
