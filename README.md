@@ -8,6 +8,13 @@ links to my own gists and blog posts
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
 # [gists](https://gist.github.com/dfkaye)
++ [get-type-name (__vast improvement__ over type-describe gist)](https://gist.github.com/dfkaye/841c1f84f66dd5080dc457a6306e5f4f)
++ [performance of `String(value)` vs `'' + value`](https://gist.github.com/dfkaye/e1c369b473692b50a7ec577d6e93edbd)
++ [tel-phone-input-directive](https://gist.github.com/dfkaye/aa728f701939a25cfbcd028bc4336f1b)
++ [shorter-key-path](https://gist.github.com/dfkaye/88f8a756b26759a8191b2fe8d94c042d)
++ [camelCase from snake_case or kebab-case](https://gist.github.com/dfkaye/61609cb24560321d2e6b12e092d9ae45)
++ [__centering with CSS writing-mode__](https://gist.github.com/dfkaye/d76bafd512a5af7f686d0232427b65ca)
++ [find non-enumerable object property names in ES5 ](https://gist.github.com/dfkaye/10430ca9f484483434228db87c91d8fb)
 + [optimized solution for __@tevko__ kata](https://gist.github.com/dfkaye/7cdca108ac8bded963708dc64a7eb59c)
 + [handle-event-errors-test.html](https://gist.github.com/dfkaye/37258f6ec28e286b55108e423cf2713f) - "how does the dom really deal with event handler errors on a node with multiple listeners registered for the same event type? [ June 22, 2010 ]
 + [make namespaces with `reduceRight`](https://gist.github.com/dfkaye/9407f5689858014f632356b1376a5261)
