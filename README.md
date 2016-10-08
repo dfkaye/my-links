@@ -8,6 +8,7 @@ links to my own gists and blog posts
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
 # [gists](https://gist.github.com/dfkaye)
++ [Some differences between JavaScript's Object() and Object.create() functions](https://gist.github.com/dfkaye/be603fc8aef27d79d6ead4cb95b2fb86)
 + [get-type-name (__vast improvement__ over type-describe gist)](https://gist.github.com/dfkaye/841c1f84f66dd5080dc457a6306e5f4f)
 + [performance of `String(value)` vs `'' + value`](https://gist.github.com/dfkaye/e1c369b473692b50a7ec577d6e93edbd)
 + [tel-phone-input-directive](https://gist.github.com/dfkaye/aa728f701939a25cfbcd028bc4336f1b)
