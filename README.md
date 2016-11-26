@@ -2,6 +2,7 @@
 links to my own gists and blog posts
 
 # [posts](https://dfkaye.wordpress.com)
++ https://dfkaye.wordpress.com/2016/11/26/using-only-month-year-controls-in-jqueryui-datepicker/
 + [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
@@ -9,7 +10,6 @@ links to my own gists and blog posts
 
 
 # [gists](https://gist.github.com/dfkaye)
-
 + [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
 + [get all childnodes of document fragment before insertion into the dom](https://gist.github.com/dfkaye/beb0b3f819bb43ef36355cc068c3310c)
 
