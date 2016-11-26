@@ -7,7 +7,12 @@ links to my own gists and blog posts
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
 
+
 # [gists](https://gist.github.com/dfkaye)
+
++ [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
++ [get all childnodes of document fragment before insertion into the dom](https://gist.github.com/dfkaye/beb0b3f819bb43ef36355cc068c3310c)
+
 + [Some differences between JavaScript's Object() and Object.create() functions](https://gist.github.com/dfkaye/be603fc8aef27d79d6ead4cb95b2fb86)
 + [get-type-name (__vast improvement__ over type-describe gist)](https://gist.github.com/dfkaye/841c1f84f66dd5080dc457a6306e5f4f)
 + [performance of `String(value)` vs `'' + value`](https://gist.github.com/dfkaye/e1c369b473692b50a7ec577d6e93edbd)
