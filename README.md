@@ -2,7 +2,7 @@
 links to my own gists and blog posts
 
 # [posts](https://dfkaye.wordpress.com)
-+ https://dfkaye.wordpress.com/2016/11/26/using-only-month-year-controls-in-jqueryui-datepicker/
++ [Using only month/year in jqueryUI datepickers](https://dfkaye.wordpress.com/2016/11/26/using-only-month-year-controls-in-jqueryui-datepicker/)
 + [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
@@ -11,8 +11,23 @@ links to my own gists and blog posts
 
 # [gists](https://gist.github.com/dfkaye)
 + [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
++ [*zero-global* loader concept](https://gist.github.com/dfkaye/de0c980f98ce99e0171398a43c09b388)
++ [leaflet's **simple template interpolater**](https://gist.github.com/dfkaye/5bc606c1377d46bffbc20f8eb18ef075)
++ [**MarkupUnit** - tdd for markup p.o.c based on Heydon's revenge.css...](https://gist.github.com/dfkaye/1c643c90995aed23dd9217dcc7b1305b)
++ [utf8 triangle entities](https://gist.github.com/dfkaye/804444c3783f7a893b4258a82cd9f717)
++ [Notes to Heydon Pickering's *Write Less Damn Code*](https://gist.github.com/dfkaye/765b73bda7e8291633038301132028db)
++ [**most boring ToDo list** in vanilla.js and barely-tolerable.css](https://gist.github.com/dfkaye/5d32be08961aa2bf56b73f5fb06fb4e7)
++ [`assert()` method on every object](https://gist.github.com/dfkaye/96112ac0fb956da9d8b5c8fb5255fbc3)
++ [number-sum-product](https://gist.github.com/dfkaye/32f9efe41c79bed711305412dad3ec60)
++ [collect.js - solution to amazon water problem](https://gist.github.com/dfkaye/84dfe8e0cd48f0ee00d5ef434c39ff6f)
++ [rx-array-observable.js ~ observable array example by @andrestaltz in "You will learn RxJS at ng-europe 2016"](https://gist.github.com/dfkaye/9c4251a23c8943db417a79394c476747)
++ [fix broken code in es6-template-strings.js example...](https://gist.github.com/dfkaye/e2e66c3afa63d68a6663515009a081d9)
++ [visit-once - variation on non-recursive depth-first traversal ](https://gist.github.com/dfkaye/0a4f787544dca03d957d03b9a8678481)
++ [non-blocking computation](https://gist.github.com/dfkaye/fc2bae9158ca5b39240fdb945b1eb2a4)
++ [`eval` - direct vs. indirect](https://gist.github.com/dfkaye/4ac71499dd82aca94327e31efa3dbe29)
++ ["callback as contract" basics](https://gist.github.com/dfkaye/4d9619d2fbb0e12d9b33d09d72f75ea6)
++ [scrape-and-sum](https://gist.github.com/dfkaye/58155928f8c6b639217b543375253e4e)
 + [get all childnodes of document fragment before insertion into the dom](https://gist.github.com/dfkaye/beb0b3f819bb43ef36355cc068c3310c)
-
 + [Some differences between JavaScript's Object() and Object.create() functions](https://gist.github.com/dfkaye/be603fc8aef27d79d6ead4cb95b2fb86)
 + [get-type-name (__vast improvement__ over type-describe gist)](https://gist.github.com/dfkaye/841c1f84f66dd5080dc457a6306e5f4f)
 + [performance of `String(value)` vs `'' + value`](https://gist.github.com/dfkaye/e1c369b473692b50a7ec577d6e93edbd)
@@ -78,7 +93,7 @@ links to my own gists and blog posts
 + [__value.js__ ~ monad that makes a value immutable](https://gist.github.com/dfkaye/692c0a527d5ee5eeda3c)
 + [__string-module__ ~ create module from method on string instances](https://gist.github.com/dfkaye/21591f6e41e5cb902454)
 + [function#create](https://gist.github.com/dfkaye/04e13542abd4bf06abc9)
-+ [module._reset](https://gist.github.com/dfkaye/bc76eb07b7826353acec)
++ [module._reset()_](https://gist.github.com/dfkaye/bc76eb07b7826353acec)
 + [js arrays: replace all occurrences of `'x'` with `'y'` using `while()` & `[].indexOf()`](https://gist.github.com/dfkaye/f1d435de7d03388109f5)
 + [string#as alias](https://gist.github.com/dfkaye/96637eda4e262dfe91ee)
 + [simple string dependency graph](https://gist.github.com/dfkaye/cf2f3ee752d90b4af21f)
