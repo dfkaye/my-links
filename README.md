@@ -13,7 +13,7 @@ links to my own gists and blog posts
 + [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
 + [*zero-global* loader concept](https://gist.github.com/dfkaye/de0c980f98ce99e0171398a43c09b388)
 + [leaflet's **simple template interpolater**](https://gist.github.com/dfkaye/5bc606c1377d46bffbc20f8eb18ef075)
-+ [**MarkupUnit** - tdd for markup p.o.c based on Heydon's revenge.css...](https://gist.github.com/dfkaye/1c643c90995aed23dd9217dcc7b1305b)
++ [**markup-unit** - tdd for markup p.o.c based on Heydon's revenge.css...](https://gist.github.com/dfkaye/1c643c90995aed23dd9217dcc7b1305b)
 + [utf8 triangle entities](https://gist.github.com/dfkaye/804444c3783f7a893b4258a82cd9f717)
 + [Notes to Heydon Pickering's *Write Less Damn Code*](https://gist.github.com/dfkaye/765b73bda7e8291633038301132028db)
 + [**most boring ToDo list** in vanilla.js and barely-tolerable.css](https://gist.github.com/dfkaye/5d32be08961aa2bf56b73f5fb06fb4e7)
