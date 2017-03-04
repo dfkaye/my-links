@@ -11,6 +11,7 @@ links to my own gists and blog posts
 
 # [gists](https://gist.github.com/dfkaye)
 + [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
++ [balanced parentheses string test](https://gist.github.com/dfkaye/2e87303396fdd0402e01062594d4e89c)
 + [*zero-global* loader concept](https://gist.github.com/dfkaye/de0c980f98ce99e0171398a43c09b388)
 + [leaflet's **simple template interpolater**](https://gist.github.com/dfkaye/5bc606c1377d46bffbc20f8eb18ef075)
 + [**markup-unit** - tdd for markup p.o.c based on Heydon's revenge.css...](https://gist.github.com/dfkaye/1c643c90995aed23dd9217dcc7b1305b)
