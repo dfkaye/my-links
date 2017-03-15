@@ -10,6 +10,10 @@ links to my own gists and blog posts
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [answer to @Rich_Harris ~ How to add & remove 'passive' event handlers](https://gist.github.com/dfkaye/d1bdfc01aaa08722db0af40880fd8a2e)
++ [wai-aria-tabs](https://gist.github.com/dfkaye/eeb416874e65109197e19d1f5cc863b4)
++ [wai-aria-alert-dialog](https://gist.github.com/dfkaye/31939cd9fd3d00be68ffd5ab42622a35)
++ [wai-aria-accordion](https://gist.github.com/dfkaye/c865365e4581548d348a5bfcd586c8be)
 + [__cycle-tolerant__ structure sharing with immutability](https://gist.github.com/dfkaye/b0042432757db018b03c0d43721cb9ca)
 + [balanced parentheses string test](https://gist.github.com/dfkaye/2e87303396fdd0402e01062594d4e89c)
 + [*zero-global* loader concept](https://gist.github.com/dfkaye/de0c980f98ce99e0171398a43c09b388)
