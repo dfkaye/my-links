@@ -10,6 +10,7 @@ links to my own gists and blog posts
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [Finding max values in arbitrarily structured data arrays using `Math.max()` and `Array.reduce()`](https://gist.github.com/dfkaye/5bf15350a4176b38da0a7df2be4501d4)
 + [answer to @Rich_Harris ~ How to add & remove 'passive' event handlers](https://gist.github.com/dfkaye/d1bdfc01aaa08722db0af40880fd8a2e)
 + [wai-aria-tabs](https://gist.github.com/dfkaye/eeb416874e65109197e19d1f5cc863b4)
 + [wai-aria-alert-dialog](https://gist.github.com/dfkaye/31939cd9fd3d00be68ffd5ab42622a35)
