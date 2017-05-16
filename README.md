@@ -10,6 +10,7 @@ links to my own gists and blog posts
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [Crockford's *Post-JavaScript Apocalypse*](https://gist.github.com/dfkaye/660cde02ead1344757d7ab9a37e1068c)
 + [debounce() implentation ~ asked at an interview](61dfb82645160e93dad34b2cc66c4a65)
 + [Finding max values in arbitrarily structured data arrays using `Math.max()` and `Array.reduce()`](https://gist.github.com/dfkaye/5bf15350a4176b38da0a7df2be4501d4)
 + [answer to @Rich_Harris ~ How to add & remove 'passive' event handlers](https://gist.github.com/dfkaye/d1bdfc01aaa08722db0af40880fd8a2e)
