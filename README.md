@@ -13,6 +13,8 @@ links to my own gists and blog posts
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [things about `Array().fill()`](https://gist.github.com/dfkaye/246290aa165351623f8de6164f27c94a)
++ [things about template literals](https://gist.github.com/dfkaye/062cd83654c6a6186b4eb54a7a7e5356)
 + [`pipe`: ES5 version of data flow by function composition](https://gist.github.com/dfkaye/5bc9938c6ab804334a69e50c9fa13f23)
 + [`SAM pattern` example, drastically modified](https://gist.github.com/dfkaye/7be277966a24b717106f9a3d2275e305)
 + [post request grid test page using json-p and vanilla.js](https://gist.github.com/dfkaye/fd4026e683e8c603ba94d39da19b0a49)
