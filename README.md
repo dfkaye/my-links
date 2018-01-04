@@ -1,15 +1,21 @@
 # my-links
-links to my own gists and blog posts
+Links to some of my blog posts and github gists.
 
 # [posts](https://dfkaye.wordpress.com)
 + [Two object definition refactorings from 2017](https://dfkaye.wordpress.com/2017/12/13/two-object-definition-refactorings-from-2017/)
 + [Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)
 + [Why input string format matters for JavaScript (and moment.js) dates](https://dfkaye.wordpress.com/2017/11/03/why-input-string-format-matters-for-javascript-and-moment-js-dates/)
 + [Using only month/year in jqueryUI datepickers](https://dfkaye.wordpress.com/2016/11/26/using-only-month-year-controls-in-jqueryui-datepicker/)
-+ [@dfkaye: TDD boilerplate for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
-+ [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
-+ [@dfkaye: Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
++ [Pseudo-Comments in CSS (Or, How Browsers Parse Styles)](https://dfkaye.wordpress.com/2015/10/21/pseudo-comments-in-css-or-how-browsers-parse-styles/)
++ [CSS <del>line</del> rule comments](https://dfkaye.wordpress.com/2015/09/25/css-line-comments/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
++ [The Plus & Minus of TDD ~ a commenter’s great response to Cedric Beust.](https://dfkaye.wordpress.com/2015/08/27/the-plus-minus-of-tdd-a-commenters-great-response-to-cedric-beust/)
++ [Units are Wholes, not Parts](https://dfkaye.wordpress.com/2015/08/19/units-are-wholes-not-parts/)
++ [Problems with static inheritance \[in JavaScript\]](https://dfkaye.wordpress.com/2015/07/31/problems-with-static-inheritance/)
++ [Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
++ [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
++ [A TDD boilerplate project for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
+
 
 
 # [gists](https://gist.github.com/dfkaye)
