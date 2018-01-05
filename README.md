@@ -19,6 +19,7 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [is-empty.js util \[Es5 version\]](https://gist.github.com/dfkaye/f87272098c4e19e4d55a6a18515aefce)
 + [things about `Array().fill()`](https://gist.github.com/dfkaye/246290aa165351623f8de6164f27c94a)
 + [things about template literals](https://gist.github.com/dfkaye/062cd83654c6a6186b4eb54a7a7e5356)
 + [`pipe`: ES5 version of data flow by function composition](https://gist.github.com/dfkaye/5bc9938c6ab804334a69e50c9fa13f23)
