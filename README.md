@@ -42,7 +42,7 @@ Links to some of my blog posts and github gists.
 + [check whether two strings are anagrams of each other](https://gist.github.com/dfkaye/afc24a31e93785fdaf7cbb549abc4e71)
 + [`_.get()` polyfill for the lodash.js method not available in underscore.js](https://gist.github.com/dfkaye/59263b51cf1e0b633181c5f44ae2066a)
 + [accessible responsive svg - markup borrowed from http://describler.com/#intro](https://gist.github.com/dfkaye/823c0a249e56cdaffc677a16b8ef92d9)
-+ [convert yyyy-mm-dd to mm-dd-yyyy (with optional formatter param)](https://gist.github.com/dfkaye/e46b2f44ea5f624224602b51a7d4f6bb)
++ [convert `yyyy-mm-dd` to `mm-dd-yyyy` (with optional formatter param)](https://gist.github.com/dfkaye/e46b2f44ea5f624224602b51a7d4f6bb)
 + [Some follow-up thoughts to morning discussion on making certain UI components "unit-testable"](https://gist.github.com/dfkaye/fe2febaf5019393cb3f786faf59975a9)
 + [Crockford's *Post-JavaScript Apocalypse*](https://gist.github.com/dfkaye/660cde02ead1344757d7ab9a37e1068c)
 + [`debounce()` implentation ~ asked at an interview](61dfb82645160e93dad34b2cc66c4a65)
