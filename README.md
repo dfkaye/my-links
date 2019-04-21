@@ -51,6 +51,7 @@ Links to some of my blog posts and github gists.
 + [`flatten()`, `inject()`, `merge()`, `collect()`, and `dom()` functions for building form fields and retrieving their values](https://gist.github.com/dfkaye/0e4c6fd2cad27418a3001381dd9e064b)
 + [`window.name` in browsers is expected to be a DOMString, or coercible to one. Always.](https://gist.github.com/dfkaye/270c4fe0e28827596e6b4c6aa962ab75)
 + [`array-from-slice` - [ in progress ] creating arrays from (array-like) objects](https://gist.github.com/dfkaye/499f2e21a5b0f1725b4d08743ecba396)
++ [**Refactoring the Y-combinator and its hocus pocus functional programming "magic"**](https://gist.github.com/dfkaye/22aaed9f197573d65253e8e975ef36d5)
 + [replace the leading + and first two spaces in git diffs for given multiline string](https://gist.github.com/dfkaye/b6378d18c82b444a77c24d3061af61b1)
 + [modified: Paul Kinlan's **`simple-dom-template`**](https://gist.github.com/dfkaye/7cf57d19b080a3a615a0849cc35e976e)
 + [forked: `dom-tojson` - **Stringify DOM nodes using JSON (and revive again)**](https://gist.github.com/dfkaye/2a163baa4f754b22cd985f7155456a46)
