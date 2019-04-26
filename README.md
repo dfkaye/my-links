@@ -19,6 +19,8 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [*Accessible* **CSS-driven** `loading` indicator](https://gist.github.com/dfkaye/c685b70ce3cfda1ba8909f3dad889f39)
++ [`fibonacci` -  A return to the "cumulative incremental" fibonacci algorithm in JavaScript that doesn't blow up the callstack](https://gist.github.com/dfkaye/51660dd9435246c37e54c0655de66e3f)
 + [`undupe` - removing duplicate entries or objects-by-shape from an array... ](https://gist.github.com/dfkaye/9419efebb0bca504f3cd9c9528658e30)
 + [`hashcode` - javascript implementation of java's `string.hashcode()` method](https://gist.github.com/dfkaye/7f56f3cff02308884bb10591d64a5d94)
 + [**Updated `Number().toFixed()` polyfill** to add-then-remove the trailing '1' in every case.](https://gist.github.com/dfkaye/83f33ac455b214be999d93075649c1a8)
