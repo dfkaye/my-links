@@ -31,7 +31,7 @@ Links to some of my blog posts and github gists.
 + [`s2n` - get numeric value contained in a string; currency-comma-whitespace-friendly version of `parseInt` et al.](https://gist.github.com/dfkaye/a9ae55375ecef4520800aaa7a67e2182)
 + [`headline` - Capitalize Each Word In A Headline (Includes Unicode Support)](https://gist.github.com/dfkaye/c34e2c9918e216e6b9f0c2328228cca0)
 + [`date mask` - returns 'mm/dd/yyyy' or 'dd.mm.yyyy' based on locale param](https://gist.github.com/dfkaye/54b66971f13877c3ca304cf4f0788553)
-+ [Example setup for mocha+chai in test html with CSP support and live-server for live reload...](https://gist.github.com/dfkaye/cd7a200179b98853f4d7983a79cda921)
++ [Example setup for `mocha+chai` in test html with CSP support and `live-server` for live reload...](https://gist.github.com/dfkaye/cd7a200179b98853f4d7983a79cda921)
 + [**chained-api-init-pattern** - sequential init via single responsibility endpoints](https://gist.github.com/dfkaye/15f256faa874e0f91c14b49ac1128ac9)
 + [`address-helper-copy+pasta` with refactored solution](https://gist.github.com/dfkaye/9b3ff7b1f6283d2e0221bd16f305c107)
 + [**chained-api-test-pattern** - a CRUD service-like test pattern, using mocha + chai in the browser](https://gist.github.com/dfkaye/33fc28530d507104edc8fca369236b68)
