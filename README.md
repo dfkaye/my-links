@@ -19,10 +19,12 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
-+ another _.set() variant_ [update.js](https://gist.github.com/dfkaye/bb240ae958e6f21c021f8f3b031f0eff)
++ [`create-selector.js` - derive state from selectors](https://gist.github.com/dfkaye/68dc3c925ae153a916ad56a7fc4d7f3c)
++ [`shuffle.js` - fisher-yates shuffle](https://gist.github.com/dfkaye/36a4cd28c91d8ee1febb92c1b2b57e04)
++ [`update.js` - another _.set() variant_](https://gist.github.com/dfkaye/bb240ae958e6f21c021f8f3b031f0eff)
 + [James H. Fisher's generators example slightly refactored...](https://gist.github.com/dfkaye/518261a99fc8c402503b70f17753b56e)
 + [HTML `<details>` element for IE/Edge](https://gist.github.com/dfkaye/3a8d52350b389d25b000de7645a3a34f)
-+ another _.get() variant_ [resolve.js](https://gist.github.com/dfkaye/5828ef43e2dccea576c78bb4eeb9747e)
++ [`resolve.js` - another _.get() variant_](https://gist.github.com/dfkaye/5828ef43e2dccea576c78bb4eeb9747e)
 + [format-condition.js](https://gist.github.com/dfkaye/eb7e9df92e0843c79069ad93085136ac)
 + [format-currency.js](https://gist.github.com/dfkaye/70014de717607c22b1bf917f170ff482)
 + [`React` app refactored](https://gist.github.com/dfkaye/bfaa70491219bbf4b2fd3cbf7b59f80a)
