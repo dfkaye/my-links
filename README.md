@@ -19,6 +19,9 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [Does your browser support `flexbox fieldsets` (or other elements)? Here's a test for that...](https://gist.github.com/dfkaye/65ea903631175c867ff199b0c511fd90)
++ [`CSV` utils with tests - download, upload, parse, transform, match...](https://gist.github.com/dfkaye/813b17c70a2a93f086832732bd090599)
++ [ 3 ways to generate `multiline` strings in JavaScript ](https://gist.github.com/dfkaye/1c7906dce20f3e5f6cf4717aaa04e590)
 + [`create-selector.js` - derive state from selectors](https://gist.github.com/dfkaye/68dc3c925ae153a916ad56a7fc4d7f3c)
 + [`shuffle.js` - fisher-yates shuffle](https://gist.github.com/dfkaye/36a4cd28c91d8ee1febb92c1b2b57e04)
 + [`update.js` - another _.set() variant_](https://gist.github.com/dfkaye/bb240ae958e6f21c021f8f3b031f0eff)
