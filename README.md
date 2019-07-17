@@ -17,8 +17,10 @@ Links to some of my blog posts and github gists.
 + [A TDD boilerplate project for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 
 
-
 # [gists](https://gist.github.com/dfkaye)
++ [`UTCDate(ms)` string](https://gist.github.com/dfkaye/fefa9668af11f3b26ad8bd3a7bf07c9c) - i.e., (ms) - convert 1363358559454 to "March 15, 2013 at 7:42:39 AM" 
++ [Accessible Loading Spinner (borrowed from Paul J Adam)](https://gist.github.com/dfkaye/9bdbc38f2e7d3fa3787e0b905a272bf2)
++ [You Don't Know CSS: attribute selectors are not property selectors](https://gist.github.com/dfkaye/cc68840cfa1f9e209045552c5ff15374)
 + [Does your browser support `flexbox fieldsets` (or other elements)? Here's a test for that...](https://gist.github.com/dfkaye/65ea903631175c867ff199b0c511fd90)
 + [`CSV` utils with tests - download, upload, parse, transform, match...](https://gist.github.com/dfkaye/813b17c70a2a93f086832732bd090599)
 + [3 ways to generate `multiline` strings in JavaScript ](https://gist.github.com/dfkaye/1c7906dce20f3e5f6cf4717aaa04e590)
