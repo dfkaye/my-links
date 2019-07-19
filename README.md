@@ -224,7 +224,7 @@ Links to some of my blog posts and github gists.
 + [answer to __jaroslav tulach__'s javascript quiz](https://gist.github.com/dfkaye/8426258)
 + [`Function()` constructor for batch processing](https://gist.github.com/dfkaye/8292964)
 + [`metafunction` with insane clj pattern](https://gist.github.com/dfkaye/7797707)
-+ [__Insane__ Parenthetic Style](https://gist.github.com/dfkaye/7390424)
++ [__Insane__ Parenthetic Style for JavaScript](https://gist.github.com/dfkaye/7390424)
 + [sorted hashmap for @jamonholmgren](https://gist.github.com/dfkaye/7275691)
 + [Ben Orenstein's simple rules for new programmers ~ condensed](https://gist.github.com/dfkaye/7219988)
 + [visit css rules](https://gist.github.com/dfkaye/7089715)
