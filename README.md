@@ -90,7 +90,7 @@ Links to some of my blog posts and github gists.
 + [`path-map` - Turn an object into a map of path-value pairs and revive it](https://gist.github.com/dfkaye/0b3caf61448badbb99e94da94426978f)
 + [**this**](https://gist.github.com/dfkaye/bf90a377a5713c689f0bd27e72a957df)
 + [f-monad, v-monad - revisiting value() monad...](https://gist.github.com/dfkaye/9604b839794908cf3777b893d7b5f7be)
-+ [*VASTLY improved* version of **cycle-tolerant structure-sharing** `change()` method, with immutability](https://gist.github.com/dfkaye/a74d9da4d58306aa8bf8fed72881d791)
++ [*VASTLY improved* version of **cycle-tolerant structure-sharing** `change()` method](https://gist.github.com/dfkaye/a74d9da4d58306aa8bf8fed72881d791) - immutability, prototypal history, and protection against prototype pollution
 + [find user-defined globals - response to Wes Bos challenge](https://gist.github.com/dfkaye/7e4be6e848152378e07d16e23d13c1e3)
 + [add-remove DOM elements using `Range` and `appendChild`](https://gist.github.com/dfkaye/661d41ed958107901ff8fc40527d35e3)
 + [random letter sequence generator](https://gist.github.com/dfkaye/3a4b4f3ebe6d2af93d29d78168ef9a6f)
