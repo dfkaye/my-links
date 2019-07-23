@@ -18,6 +18,8 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [another UTC date string util](https://gist.github.com/dfkaye/c8b890e321fd214e23b596be48987443)
++ [graph-query-builder](https://gist.github.com/dfkaye/ad5e52bf2aa0179148741b7d29a204ec) - utility for making `graphQL` queries - *done but there's more to do*
 + [Styling descendants of `<p>` tags with flex](https://gist.github.com/dfkaye/37b4df6b5a1af3956e2cc2ca8c3a8f8e)
 + [How broadly does your browser support flexbox?](https://gist.github.com/dfkaye/0c8510d06119e2dc142a29f1717ca0bf) - *a followup to [Does your browser support `flexbox fieldsets` (or other elements)? Here's a test for that...](https://gist.github.com/dfkaye/65ea903631175c867ff199b0c511fd90)*
 + [`UTCDate(ms)` string](https://gist.github.com/dfkaye/fefa9668af11f3b26ad8bd3a7bf07c9c) - i.e., (ms) - convert 1363358559454 to "March 15, 2013 at 7:42:39 AM" 
