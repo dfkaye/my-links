@@ -18,6 +18,7 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ Borrowed this [UUID generator function](https://gist.github.com/dfkaye/9edb38fdae1a927b030580ce18d3d7da) from Deepak Gupta (2018)
 + [another UTC date string util](https://gist.github.com/dfkaye/c8b890e321fd214e23b596be48987443) - format date as a UTC date string - yyyy-mm-ddThh:mm:dd.mmsZ
 + [graph-query-builder](https://gist.github.com/dfkaye/ad5e52bf2aa0179148741b7d29a204ec) - utility for making `graphQL` queries - *more to do*
 + [Styling descendants of `<p>` tags with flex](https://gist.github.com/dfkaye/37b4df6b5a1af3956e2cc2ca8c3a8f8e)
