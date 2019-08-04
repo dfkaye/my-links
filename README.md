@@ -18,6 +18,8 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [`insert-at`: insert a new item to an Object at any specific position](https://gist.github.com/dfkaye/fda0adb241db2bfa5cb6e6c85b47b11e) - a linkedIn question that seemed fun to respond to, using ES5 syntax.
++ [`no-value`: check whether value translates to null, undefined, NaN, or an empty string](https://gist.github.com/dfkaye/e24b35e5cdc66b010cf95766f37ed4ca)
 + Borrowed this [UUID generator function](https://gist.github.com/dfkaye/9edb38fdae1a927b030580ce18d3d7da) from Deepak Gupta (2018)
 + [another UTC date string util](https://gist.github.com/dfkaye/c8b890e321fd214e23b596be48987443) - format date as a UTC date string - yyyy-mm-ddThh:mm:dd.mmsZ
 + [graph-query-builder](https://gist.github.com/dfkaye/ad5e52bf2aa0179148741b7d29a204ec) - utility for making `graphQL` queries - *more to do*
