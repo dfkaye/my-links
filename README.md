@@ -18,6 +18,7 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
++ [What are CSS relative selectors? (and why aren't there parent, previous sibling selectors?)](https://gist.github.com/dfkaye/f5251719f50e1cdac32c287a4eca08a5)
 + [`insert-at`: insert a new item to an Object at any specific position](https://gist.github.com/dfkaye/fda0adb241db2bfa5cb6e6c85b47b11e) - a linkedIn question that seemed fun to respond to, using ES5 syntax.
 + [`no-value`: check whether value translates to null, undefined, NaN, or an empty string](https://gist.github.com/dfkaye/e24b35e5cdc66b010cf95766f37ed4ca)
 + Borrowed this [UUID generator function](https://gist.github.com/dfkaye/9edb38fdae1a927b030580ce18d3d7da) from Deepak Gupta (2018)
