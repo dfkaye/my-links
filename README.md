@@ -1,7 +1,9 @@
 # my-links
+
 Links to some of my blog posts and github gists.
 
 # [posts](https://dfkaye.wordpress.com)
+
 + [Two object definition refactorings from 2017](https://dfkaye.wordpress.com/2017/12/13/two-object-definition-refactorings-from-2017/)
 + [Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)
 + [Why input string format matters for JavaScript (and moment.js) dates](https://dfkaye.wordpress.com/2017/11/03/why-input-string-format-matters-for-javascript-and-moment-js-dates/)
@@ -18,6 +20,19 @@ Links to some of my blog posts and github gists.
 
 
 # [gists](https://gist.github.com/dfkaye)
+
++ [Safe `eval` with Workers and Content-Security-Policy](https://gist.github.com/dfkaye/da49b6c05aed48e6dfb28a2c7e87cf06)
++ [ Switching to the Hugo static site generator - reasons, resources, more](https://gist.github.com/dfkaye/e37d158895f0d4ffe9e7fe360c513253)
++ [data store using http verbs as method names](https://gist.github.com/dfkaye/1dc442ec8ac7278efe9edb3568186e1f)
++ TODO, "tables with freeze headers" - https://gist.github.com/dfkaye/9c87b7526590a372efe6786bc1237588#tables-with-freeze-headers-like-excel-aka-freeze-panes
++ [Custom Collections with generators](https://gist.github.com/dfkaye/2efecbef8af9e2c6b512fa1ee374543e)
++ [I threw out the rules&hellip;](https://gist.github.com/dfkaye/8c71d744fb3ec66968f2753ff626ae74)
++ [Andy Bell's auto grid CSS without media queries ](https://gist.github.com/dfkaye/33f760bcc994297e45507f669cbb220a)
++ [Updated solution to @tevko's runtime task problem](https://gist.github.com/dfkaye/29e28a2a1005704e59467417432203b3)
++ [Notes from Bodil Stokke's "The Miracle of Generators"](https://gist.github.com/dfkaye/d0e1ee0448854b778cdcd089c479da70)
++ **Shorthand regex \[A-z]** to match **all** ASCII letters, backtick, caret, underscore, opening & closing square brackets&hellip; [regex-ascii-plus.js](https://gist.github.com/dfkaye/0030d9db09b541d5d84a833036ad9f11)
++ css-only-tabs placeholder
++ [Using CSS files in React/JSX](https://gist.github.com/dfkaye/3785a4a3a371a26e7903477426216100)
 + [What are CSS relative selectors? (and why aren't there parent, previous sibling selectors?)](https://gist.github.com/dfkaye/f5251719f50e1cdac32c287a4eca08a5)
 + [`insert-at`: insert a new item to an Object at any specific position](https://gist.github.com/dfkaye/fda0adb241db2bfa5cb6e6c85b47b11e) - a linkedIn question that seemed fun to respond to, using ES5 syntax.
 + [`no-value`: check whether value translates to null, undefined, NaN, or an empty string](https://gist.github.com/dfkaye/e24b35e5cdc66b010cf95766f37ed4ca)
