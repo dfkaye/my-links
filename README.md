@@ -21,6 +21,35 @@ Links to some of my blog posts and github gists.
 
 # [gists](https://gist.github.com/dfkaye)
 
++ [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6)
+  - bare-bones DOM init using `readyState` checks
++ [Keyboard navigation is a function of the View and *only* the View](https://gist.github.com/28847176c8123c76100e23fd437c47d5)
++ [top-level `await` vs. `async` IIFE](https://gist.github.com/a4d71e12564c1874b3574ce1936500ea)
++ [zip.js](https://gist.github.com/372779733dac8b33005c639b7dfe2446)
+  - merge 2 or more arrays into a matrix
++ [is-number.js](https://gist.github.com/9593247d65077e687aaf39641ee576de)
+  - checks that a value is functionally a number and not `NaN`
++ [Boilerplate for using TypeScript as a type checker on JavaScript files containing JSDoc annotations](https://gist.github.com/905003b87cb05a21b89a77651e163972)
++ [html-skeleton-with-csp-aria.html](https://gist.github.com/2d035282525117b585e0d8cc2d6e0339)
+  - Expanded version of Josh W. Comeau (2020), HTML Skeleton (adds CSP, ARIA, custom tag name)
++ [Against TypeScript](https://gist.github.com/a8896a2af3adf9ab0d00b9d437d91b58)
++ [xor.js](https://gist.github.com/5135495dd260cba71076cb8a8174f2ad)
++ [async-generator-example.js](https://gist.github.com/83bd9455a9daa5c561d9295a80856bde)
++ [is-object.js](https://gist.github.com/e2713a5a65cb2663a23174441610ce72)
++ [is-promise.js](https://gist.github.com/dc5c6e2d223ebc432f40c47727baaa3c)
++ [get-date-by-offset.js](https://gist.github.com/a5a30cfa056c1f80c11d93e935816f6e)
++ [Heydon's Flexbox Holy Albatross](https://gist.github.com/d6a8383b7912a1d2bfc29010d1a4494d)
++ [element from DOMParser](https://gist.github.com/b78ff72ad125f917b93c08a63094c7ba)
++ [Create empty but iterable arrays by default using `Array.from()` or `[...Array(n)]` (i.e., the spread operator)]()
++ [Better Fisher-Yates array shuffle in ES5](https://gist.github.com/3bcd809fee40132c5387c241b42164c1)
++ [`delay()` using a Promise](https://gist.github.com/b5c4ee7595dcf6f04db2fc1c656b9dd9)
++ [Viewport Units on Mobile - another handy article from css-tricks](https://gist.github.com/8c7c8dda4952316675e074e489e5f43b)
++ [CSS-only tabs demo](https://gist.github.com/c8df8ab369ace7de747887813430035e)
+  - revised from Bradley Taunt's [Tabbed Content without JavaScript](https://uglyduck.ca/tabbed-content.html)
++ [Remove `<br>` Line Break with CSS and Replace with Space](https://gist.github.com/8465c6183b18110ea424224538c9910c)
++ [re-implement `array.map()` as a standalone function (inspired by Nick Scialli)](https://gist.github.com/e264263a88796199671402e7d13b08f5)
++ [test for balanced braces, parentheses, brackets](https://gist.github.com/cf3315d3824da9a53bfd36252bc3e8f2)
++ [textarea resize drag handle polyfill for Edge/Internet Explorer](https://gist.github.com/bdaa6bb621154a1366de85c139bf7b23)
 + [Safe `eval` with Workers and Content-Security-Policy](https://gist.github.com/dfkaye/da49b6c05aed48e6dfb28a2c7e87cf06)
 + [ Switching to the Hugo static site generator - reasons, resources, more](https://gist.github.com/dfkaye/e37d158895f0d4ffe9e7fe360c513253)
 + [data store using http verbs as method names](https://gist.github.com/dfkaye/1dc442ec8ac7278efe9edb3568186e1f)
@@ -31,7 +60,6 @@ Links to some of my blog posts and github gists.
 + [Updated solution to @tevko's runtime task problem](https://gist.github.com/dfkaye/29e28a2a1005704e59467417432203b3)
 + [Notes from Bodil Stokke's "The Miracle of Generators"](https://gist.github.com/dfkaye/d0e1ee0448854b778cdcd089c479da70)
 + **Shorthand regex \[A-z]** to match **all** ASCII letters, backtick, caret, underscore, opening & closing square brackets&hellip; [regex-ascii-plus.js](https://gist.github.com/dfkaye/0030d9db09b541d5d84a833036ad9f11)
-+ css-only-tabs placeholder
 + [Using CSS files in React/JSX](https://gist.github.com/dfkaye/3785a4a3a371a26e7903477426216100)
 + [What are CSS relative selectors? (and why aren't there parent, previous sibling selectors?)](https://gist.github.com/dfkaye/f5251719f50e1cdac32c287a4eca08a5)
 + [`insert-at`: insert a new item to an Object at any specific position](https://gist.github.com/dfkaye/fda0adb241db2bfa5cb6e6c85b47b11e) - a linkedIn question that seemed fun to respond to, using ES5 syntax.
