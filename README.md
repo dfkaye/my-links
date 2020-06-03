@@ -21,6 +21,8 @@ Links to some of my blog posts and github gists.
 
 # [gists](https://gist.github.com/dfkaye)
 
++ [fetch-gists.js](https://gist.github.com/dfkaye/c9e073f7c539259a0ffab4658f47a909)
+  - q&d helper to retrieve my gists from api.github; only took 5 years to think of this.
 + [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6)
   - bare-bones DOM init using `readyState` checks
 + [Keyboard navigation is a function of the View and *only* the View](https://gist.github.com/28847176c8123c76100e23fd437c47d5)
