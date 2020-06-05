@@ -21,16 +21,13 @@ Links to some of my blog posts and github gists.
 
 # [gists](https://gist.github.com/dfkaye)
 
-+ [fetch-gists.js](https://gist.github.com/dfkaye/c9e073f7c539259a0ffab4658f47a909)
-  - q&d helper to retrieve my gists from api.github; only took 5 years to think of this.
-+ [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6)
-  - bare-bones DOM init using `readyState` checks
++ [isValue()](https://gist.github.com/dfkaye/1c648bd9a97d9bf21d153128a8ce26d0) checks that a value is not undefined, not null, not NaN, and not an empty string.
++ [fetch-gists.js](https://gist.github.com/dfkaye/c9e073f7c539259a0ffab4658f47a909) helper to retrieve my gists from api.github; only took 5 years to think of this.
++ [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6), bare-bones DOM init using `readyState` checks
 + [Keyboard navigation is a function of the View and *only* the View](https://gist.github.com/28847176c8123c76100e23fd437c47d5)
 + [top-level `await` vs. `async` IIFE](https://gist.github.com/a4d71e12564c1874b3574ce1936500ea)
-+ [zip.js](https://gist.github.com/372779733dac8b33005c639b7dfe2446)
-  - merge 2 or more arrays into a matrix
-+ [is-number.js](https://gist.github.com/9593247d65077e687aaf39641ee576de)
-  - checks that a value is functionally a number and not `NaN`
++ [zip.js](https://gist.github.com/372779733dac8b33005c639b7dfe2446) merges 2 or more arrays into a matrix
++ [is-number.js](https://gist.github.com/9593247d65077e687aaf39641ee576de) checks that a value is functionally a number and not `NaN`
 + [Boilerplate for using TypeScript as a type checker on JavaScript files containing JSDoc annotations](https://gist.github.com/905003b87cb05a21b89a77651e163972)
 + [html-skeleton-with-csp-aria.html](https://gist.github.com/2d035282525117b585e0d8cc2d6e0339)
   - Expanded version of Josh W. Comeau (2020), HTML Skeleton (adds CSP, ARIA, custom tag name)
