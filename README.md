@@ -21,7 +21,7 @@ Links to some of my blog posts and github gists.
 
 # [gists](https://gist.github.com/dfkaye)
 
-+ [isValue()](https://gist.github.com/dfkaye/1c648bd9a97d9bf21d153128a8ce26d0) checks that a value is not undefined, not null, not NaN, and not an empty string.
++ [is-value](https://gist.github.com/dfkaye/1c648bd9a97d9bf21d153128a8ce26d0) checks that a value is not undefined, not null, not NaN, and not an empty string.
 + [fetch-gists.js](https://gist.github.com/dfkaye/c9e073f7c539259a0ffab4658f47a909) helper to retrieve my gists from api.github; only took 5 years to think of this.
 + [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6), bare-bones DOM init using `readyState` checks
 + [Keyboard navigation is a function of the View and *only* the View](https://gist.github.com/28847176c8123c76100e23fd437c47d5)
@@ -62,7 +62,7 @@ Links to some of my blog posts and github gists.
 + [Using CSS files in React/JSX](https://gist.github.com/dfkaye/3785a4a3a371a26e7903477426216100)
 + [What are CSS relative selectors? (and why aren't there parent, previous sibling selectors?)](https://gist.github.com/dfkaye/f5251719f50e1cdac32c287a4eca08a5)
 + [`insert-at`: insert a new item to an Object at any specific position](https://gist.github.com/dfkaye/fda0adb241db2bfa5cb6e6c85b47b11e) - a linkedIn question that seemed fun to respond to, using ES5 syntax.
-+ [`no-value`: check whether value translates to null, undefined, NaN, or an empty string](https://gist.github.com/dfkaye/e24b35e5cdc66b010cf95766f37ed4ca)
++ [`no-value`](https://gist.github.com/dfkaye/e24b35e5cdc66b010cf95766f37ed4ca) checks whether a value translates to null, undefined, NaN, or an empty string
 + Borrowed this [UUID generator function](https://gist.github.com/dfkaye/9edb38fdae1a927b030580ce18d3d7da) from Deepak Gupta (2018)
 + [another UTC date string util](https://gist.github.com/dfkaye/c8b890e321fd214e23b596be48987443) - format date as a UTC date string - yyyy-mm-ddThh:mm:dd.mmsZ
 + [graph-query-builder](https://gist.github.com/dfkaye/ad5e52bf2aa0179148741b7d29a204ec) - utility for making `graphQL` queries - *more to do*
