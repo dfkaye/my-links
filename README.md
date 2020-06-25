@@ -1,6 +1,6 @@
 # my-links
 
-Links to some of my blog posts and github gists.
+Links to some of my own blog posts, codepen demos, and github gists.
 
 ## [posts](https://dfkaye.wordpress.com)
 
