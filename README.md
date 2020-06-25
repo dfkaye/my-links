@@ -2,7 +2,7 @@
 
 Links to some of my blog posts and github gists.
 
-# [posts](https://dfkaye.wordpress.com)
+## [posts](https://dfkaye.wordpress.com)
 
 + [Two object definition refactorings from 2017](https://dfkaye.wordpress.com/2017/12/13/two-object-definition-refactorings-from-2017/)
 + [Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)
@@ -18,8 +18,34 @@ Links to some of my blog posts and github gists.
 + [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
 + [A TDD boilerplate project for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 
+## [codepen](https://codepen.io/dfkaye)
 
-# [gists](https://gist.github.com/dfkaye)
++ [CSS `[attr=""]` selector with empty value finds `<tag attr>`](https://codepen.io/dfkaye/pen/qBbmdMa)
+  - This one surprised me.
+  - Spurred by [this tweet](https://twitter.com/equinusocio/status/1275160454386638863).
++ [Traffic-signal using custom CSS attributes and `next()`](https://codepen.io/dfkaye/pen/eYJzQbX)
+  - Running version of [traffic signal interview test (vevo)](https://gist.github.com/dfkaye/612d34a66b9bb74efc29)
++ [Revisiting `<abbr>`](https://codepen.io/dfkaye/pen/pogzjrW)
+  - Modified from Ire Aderinokun's CodePen, [Revisiting abbr](https://codepen.io/ire/pen/NoqWpm).
++ [Custom `<grid>` element without React or Material-UI](https://codepen.io/dfkaye/pen/ExVoaVe)
+  - Uses `grid {}` and `grid grid {}` rulesets.
+  - I hate React already, but I really hate Material-UI which is for people who don't know HTML or CSS and refuse to learn.
++ [@keyframers 3.2 flip() transition with CSS vars & border-radius](https://codepen.io/dfkaye/pen/XWmerPg)
+  - Sweet animation using flip transitions.
++ [Calculator](https://codepen.io/dfkaye/pen/QWjdEZe)
+  - My first non-trivial "app" built with the SAM pattern.
+  - Accessible to keyboard navigation and screen readers.
+  - Learned a ton.
++ [Simple Responsive Spreadsheet](https://codepen.io/dfkaye/pen/GRpjGQO)
+  - Implements Robin Rendle's CSS-Tricks article code for table with a sticky sticky top row and sticky left column.
+  - Very nice solution.
++ [Table with detail expansion rows](https://codepen.io/dfkaye/pen/MWaagbp)
+  - a fork from a pen by Oliver Phillips that adds a details row in an expanded row.
++ [Start Rating radio group](https://codepen.io/dfkaye/pen/MWWVEyO)
+  - An experiment hover state selectors.
+  - Not screen reader friendly.
+
+## [gists](https://gist.github.com/dfkaye)
 
 + [value-guard.js](https://gist.github.com/dfkaye/fb212514b30ab6fb8e1e4857ca553c9d)
   - not the best name; idea is that guard takes a function plus some extra params to make invariant, pre- or post-condition assertions about a value (details inside, with 3 variations).
