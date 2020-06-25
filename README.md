@@ -51,7 +51,9 @@ Links to some of my own blog posts, codepen demos, and github gists.
   - not the best name; idea is that guard takes a function plus some extra params to make invariant, pre- or post-condition assertions about a value (details inside, with 3 variations).
 + [is-value.js](https://gist.github.com/dfkaye/1c648bd9a97d9bf21d153128a8ce26d0) checks that a value is not undefined, not null, not NaN, and not an empty string.
 + [fetch-gists.js](https://gist.github.com/dfkaye/c9e073f7c539259a0ffab4658f47a909) helper to retrieve my gists from api.github; only took 5 years to think of this.
-+ [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6), bare-bones DOM init using `readyState` checks
++ [schedule-dom-init](https://gist.github.com/ef0e3ff2c0f6448bb30c6ff70c605aa6)
+  - bare-bones DOM init using `readyState` checks.
+  - supports both `fn()` and `fn.handleEvent()` interfaces.
 + [Keyboard navigation is a function of the View and *only* the View](https://gist.github.com/28847176c8123c76100e23fd437c47d5)
 + [top-level `await` vs. `async` IIFE](https://gist.github.com/a4d71e12564c1874b3574ce1936500ea)
 + [zip.js](https://gist.github.com/372779733dac8b33005c639b7dfe2446) merges 2 or more arrays into a matrix
