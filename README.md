@@ -1,6 +1,6 @@
 # my-links
 
-Links to some of my own blog posts, codepen demos, and github gists.
+Links to some of my blog posts, codepen demos, and github gists.
 
 ## [posts](https://dfkaye.wordpress.com)
 
@@ -20,6 +20,7 @@ Links to some of my own blog posts, codepen demos, and github gists.
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ [`mocha`+`chai` BDD setup](https://codepen.io/dfkaye/pen/XWXgQxZ)
 + [CSS `[attr=""]` selector with empty value finds `<tag attr>`](https://codepen.io/dfkaye/pen/qBbmdMa)
   - This one surprised me.
   - Spurred by [this tweet](https://twitter.com/equinusocio/status/1275160454386638863).
