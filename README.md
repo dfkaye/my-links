@@ -4,6 +4,12 @@ Links to some of my blog posts, codepen demos, and github gists.
 
 ## [posts](https://dfkaye.wordpress.com)
 
++ [Custom attributes are fast, good, and cheap](https://dfkaye.wordpress.com/2019/08/16/custom-attributes-are-fast-good-and-cheap/)
+  - Stop using CSS classes for everything.
+  - Stop using BEM.
+  - Use custom (non-standard) attributes in HTML and matching them with CSS attribute selectors
+  - Use attributes in combination.
+  - Use attribute values to reflect state.
 + [Two object definition refactorings from 2017](https://dfkaye.wordpress.com/2017/12/13/two-object-definition-refactorings-from-2017/)
 + [Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)
 + [Why input string format matters for JavaScript (and moment.js) dates](https://dfkaye.wordpress.com/2017/11/03/why-input-string-format-matters-for-javascript-and-moment-js-dates/)
