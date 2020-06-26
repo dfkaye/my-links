@@ -48,6 +48,8 @@ Links to some of my blog posts, codepen demos, and github gists.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [diff-map.js](https://gist.github.com/dfkaye/405aef7ede1e7313a5e3e3ec3994fc02)
+  - `diffMap(A, B)` returns a map of dot.delimited.paths showing any differences between object A and object B
 + [value-guard.js](https://gist.github.com/dfkaye/fb212514b30ab6fb8e1e4857ca553c9d)
   - not the best name; idea is that guard takes a function plus some extra params to make invariant, pre- or post-condition assertions about a value (details inside, with 3 variations).
 + [is-value.js](https://gist.github.com/dfkaye/1c648bd9a97d9bf21d153128a8ce26d0) checks that a value is not undefined, not null, not NaN, and not an empty string.
