@@ -54,6 +54,8 @@ Links to some of my blog posts, codepen demos, and github gists.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [omit.js](https://gist.github.com/dfkaye/d4bb3b2095ed08f8572c3df2d0067172)
+  - `omit.js` removes array items that match every key-value in a descriptor
 + [diff-map.js](https://gist.github.com/dfkaye/405aef7ede1e7313a5e3e3ec3994fc02)
   - `diffMap(A, B)` returns a map of dot.delimited.paths showing any differences between object A and object B
 + [value-guard.js](https://gist.github.com/dfkaye/fb212514b30ab6fb8e1e4857ca553c9d)
