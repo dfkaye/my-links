@@ -2,7 +2,11 @@
 
 Links to some of my blog posts, codepen demos, and github gists.
 
-## [posts](https://dfkaye.wordpress.com)
+## New Blog (2020)
+
+https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io).
+
+## [wordpress blog posts](https://dfkaye.wordpress.com)
 
 + [Custom attributes are fast, good, and cheap](https://dfkaye.wordpress.com/2019/08/16/custom-attributes-are-fast-good-and-cheap/)
   - Stop using CSS classes for everything.
