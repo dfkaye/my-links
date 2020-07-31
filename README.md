@@ -30,6 +30,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ {Djikstra maze algorithm](https://codepen.io/dfkaye/pen/NWxZZYJ)
+  - code along with @jamonholmgren https://twitter.com/jamonholmgren/status/1289025470235729921
 + [`mocha`+`chai` BDD setup](https://codepen.io/dfkaye/pen/XWXgQxZ)
 + [CSS `[attr=""]` selector with empty value finds `<tag attr>`](https://codepen.io/dfkaye/pen/qBbmdMa)
   - This one surprised me.
@@ -58,6 +60,12 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [select-n-most-recent.js](https://gist.github.com/dfkaye/6c2d5d1c0c5a175d4e06b880954d6f20)
+  - Interview code challenge: select n most recent movies from a list *while preserving their original list order*.
++ [boolean-string-to-boolean.js](https://gist.github.com/dfkaye/ce346446dee243173cd199e51b0c51ac)
+  - This keeps coming up on twitter. Q: How to convert "true" and "false" to actual boolean true and false?
++ [format-numeric-string.js](https://gist.github.com/dfkaye/af494b6aff7f2c8026ffec31bd547c5f)
+  - The number format helper from the Calculator codepen at https://codepen.io/dfkaye/pen/QWjdEZe
 + [omit.js](https://gist.github.com/dfkaye/d4bb3b2095ed08f8572c3df2d0067172)
   - `omit.js` removes array items that match every key-value in a descriptor
 + [diff-map.js](https://gist.github.com/dfkaye/405aef7ede1e7313a5e3e3ec3994fc02)
