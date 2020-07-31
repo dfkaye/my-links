@@ -30,6 +30,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ [date-input-element](https://codepen.io/dfkaye/pen/mdVNWJz)
+  - stop using date-pickers. use input elements that accept `yyyy-mm-dd` formatted text, and then write reader-friendly date strings to a text node.
 + [Djikstra maze algorithm](https://codepen.io/dfkaye/pen/NWxZZYJ)
   - code along with @jamonholmgren https://twitter.com/jamonholmgren/status/1289025470235729921
 + [`mocha`+`chai` BDD setup](https://codepen.io/dfkaye/pen/XWXgQxZ)
