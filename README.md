@@ -30,7 +30,7 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [codepen](https://codepen.io/dfkaye)
 
-+ {Djikstra maze algorithm](https://codepen.io/dfkaye/pen/NWxZZYJ)
++ [Djikstra maze algorithm](https://codepen.io/dfkaye/pen/NWxZZYJ)
   - code along with @jamonholmgren https://twitter.com/jamonholmgren/status/1289025470235729921
 + [`mocha`+`chai` BDD setup](https://codepen.io/dfkaye/pen/XWXgQxZ)
 + [CSS `[attr=""]` selector with empty value finds `<tag attr>`](https://codepen.io/dfkaye/pen/qBbmdMa)
