@@ -62,8 +62,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
-+ [JavaScript's numeric separator: test cases](https://gist.github.com/dfkaye/833553535fbeadc07c996623ca15ea9b)
-
++ [Testing Private Functions in JavaScript: Don't, and Here's How](https://gist.github.com/dfkaye/57fd3be707db9e23371c685a4129b5cb)
++ [JavaScript's numeric_separator_char: test cases](https://gist.github.com/dfkaye/833553535fbeadc07c996623ca15ea9b)
 + [select-n-most-recent.js](https://gist.github.com/dfkaye/6c2d5d1c0c5a175d4e06b880954d6f20)
   - Interview code challenge: select n most recent movies from a list *while preserving their original list order*.
 + [boolean-string-to-boolean.js](https://gist.github.com/dfkaye/ce346446dee243173cd199e51b0c51ac)
