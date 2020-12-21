@@ -30,6 +30,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ [TAB traversal with grid row rearrangement](https://codepen.io/dfkaye/pen/KKgvgem)
+  - preserve TAB (source) order while rearranging display order using `grid-column: #colnum`, `grid-column: span #colcount`, `grid-row: #rownum``, grid-row: span #rowcount`, among others.
 + [Traffic-signal using CSS `:target` pseudo class](https://codepen.io/dfkaye/pen/KKzEbdY)
 + [date-input-element](https://codepen.io/dfkaye/pen/mdVNWJz)
   - Stop using date-pickers. Use input elements that accept `yyyy-mm-dd` formatted text, and then write reader-friendly date strings to a text node.
