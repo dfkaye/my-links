@@ -62,6 +62,10 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [SAM pattern: Barebones Dependency Injection](https://gist.github.com/dfkaye/ce020f21c4e095bd3da5c8026b2e5e3e)
++ [JavaScript variable hoisting and scope](https://gist.github.com/dfkaye/1b7b89ce55bbc1cd9dd8c5c48ac8d681)
++ [Hugo blog "search" implementation](https://gist.github.com/dfkaye/47d22bd924b64c0f4d25ec39922320ad)
++ [SAM Pattern Boilerplate](https://gist.github.com/dfkaye/8c3579662a344f65777153251bb0b5a7)
 + [Testing Private Functions in JavaScript: Don't, and Here's How](https://gist.github.com/dfkaye/57fd3be707db9e23371c685a4129b5cb)
 + [JavaScript's numeric_separator_char: test cases](https://gist.github.com/dfkaye/833553535fbeadc07c996623ca15ea9b)
 + [select-n-most-recent.js](https://gist.github.com/dfkaye/6c2d5d1c0c5a175d4e06b880954d6f20)
@@ -109,7 +113,7 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 + [Safe `eval` with Workers and Content-Security-Policy](https://gist.github.com/dfkaye/da49b6c05aed48e6dfb28a2c7e87cf06)
 + [ Switching to the Hugo static site generator - reasons, resources, more](https://gist.github.com/dfkaye/e37d158895f0d4ffe9e7fe360c513253)
 + [data store using http verbs as method names](https://gist.github.com/dfkaye/1dc442ec8ac7278efe9edb3568186e1f)
-+ TODO, "tables with freeze headers" - https://gist.github.com/dfkaye/9c87b7526590a372efe6786bc1237588#tables-with-freeze-headers-like-excel-aka-freeze-panes
++ [TODO, "tables with freeze headers"] - https://gist.github.com/dfkaye/9c87b7526590a372efe6786bc1237588#tables-with-freeze-headers-like-excel-aka-freeze-panes
 + [Custom Collections with generators](https://gist.github.com/dfkaye/2efecbef8af9e2c6b512fa1ee374543e)
 + [I threw out the rules&hellip;](https://gist.github.com/dfkaye/8c71d744fb3ec66968f2753ff626ae74)
 + [Andy Bell's auto grid CSS without media queries ](https://gist.github.com/dfkaye/33f760bcc994297e45507f669cbb220a)
