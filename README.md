@@ -65,7 +65,10 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
-+ [SAM pattern: Barebones Dependency Injection](https://gist.github.com/dfkaye/ce020f21c4e095bd3da5c8026b2e5e3e)
++ [Actor Model in a Tweet](https://gist.github.com/dfkaye/c40384c320dbd9c6b966d45c2800aea3)
+  - 2020 upgrade of @dalnefre (Dale Schumacher)'s "actor model in a tweet."
++ [Draft of SAM Pattern test strategy using dependency injection](https://gist.github.com/dfkaye/f9709a08e2cfc80a162d6f605c728e93)
++ [barebones dependency injection example](https://gist.github.com/dfkaye/ce020f21c4e095bd3da5c8026b2e5e3e)
 + [JavaScript variable hoisting and scope](https://gist.github.com/dfkaye/1b7b89ce55bbc1cd9dd8c5c48ac8d681)
 + [Hugo blog "search" implementation](https://gist.github.com/dfkaye/47d22bd924b64c0f4d25ec39922320ad)
 + [SAM Pattern Boilerplate](https://gist.github.com/dfkaye/8c3579662a344f65777153251bb0b5a7)
