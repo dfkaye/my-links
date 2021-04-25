@@ -135,8 +135,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 + [textarea resize drag handle polyfill for Edge/Internet Explorer](https://gist.github.com/bdaa6bb621154a1366de85c139bf7b23)
 + [Safe `eval` with Workers and Content-Security-Policy](https://gist.github.com/dfkaye/da49b6c05aed48e6dfb28a2c7e87cf06)
 + [ Switching to the Hugo static site generator - reasons, resources, more](https://gist.github.com/dfkaye/e37d158895f0d4ffe9e7fe360c513253)
-+ [data store using http verbs as method names](https://gist.github.com/dfkaye/1dc442ec8ac7278efe9edb3568186e1f)
-+ [TODO, "tables with freeze headers"] - https://gist.github.com/dfkaye/9c87b7526590a372efe6786bc1237588#tables-with-freeze-headers-like-excel-aka-freeze-panes
++ [data store using HTTP verbs as method names](https://gist.github.com/dfkaye/1dc442ec8ac7278efe9edb3568186e1f)
++ [TODO, "tables with freeze headers"] https://gist.github.com/dfkaye/9c87b7526590a372efe6786bc1237588#tables-with-freeze-headers-like-excel-aka-freeze-panes
 + [Custom Collections with generators](https://gist.github.com/dfkaye/2efecbef8af9e2c6b512fa1ee374543e)
 + [I threw out the rules&hellip;](https://gist.github.com/dfkaye/8c71d744fb3ec66968f2753ff626ae74)
 + [Andy Bell's auto grid CSS without media queries ](https://gist.github.com/dfkaye/33f760bcc994297e45507f669cbb220a)
