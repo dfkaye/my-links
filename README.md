@@ -65,6 +65,23 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [parse-integer](https://gist.github.com/dfkaye/d2fb31db090fc52a7f79883d1ab1da1c)
+  - A `parseInt()` that doesn't break on "1.5e+3", "2e7", "FF", "-0", long floats, separators, etc.
++ [`mergerino` slightly refactored](https://gist.github.com/dfkaye/da82d3b7be2f97359510973a788c0285)
+  - refactor of  `@fuzetus/mergerino`, "an immutable merge util for state management" at https://github.com/fuzetsu/mergerino/.
++ [`flipString`: Turn a string upside-down in JavaScript](https://gist.github.com/dfkaye/349ddd8f251091e0e0ee76e0da47dd80)
+  - __Not mine__: first published in 2005 or so by David Faden at http://www.revfad.com/flip.html
++ [`truthful`](https://gist.github.com/dfkaye/0e70af8feb8b2ec367739474094114ae)
+  - Correct implmentation of a boolean check in TypeScript.
++ [polyfill for the `Array.prototype.at()` method](https://gist.github.com/dfkaye/36447769e3bf63d9b8be53ce067d35bf)
++ [`rAssign` library, slightly refactored](https://gist.github.com/dfkaye/bff43e0c1fa335e52526508346adec18)
+  - refactored version of https://github.com/micnic/r-assign/, which applies `Object.assign()` to a series of sources, then uses a schema against which to extract defined properties by type and name.
++ [Book list: Multi-stable cognitive phenoma](https://gist.github.com/dfkaye/8be9fc9a351c56bf6fb77910f70e2620)
+  - Includes more than *cognitve* phenomena, really.
++ [Reactive JQuery](https://gist.github.com/dfkaye/7ecc5758a65bf31e66fa5750012dc989)
+  - JQuery has all we need to make it reactive, if we add these four things.
++ [BThreads manager refactored](https://gist.github.com/dfkaye/f09133aa8eae47fee6dcd887282eccc1)
+  - 2 refactorings of the behavioral.js class by Luca Matteis @lmatteis
 + [Actor Model in a Tweet](https://gist.github.com/dfkaye/c40384c320dbd9c6b966d45c2800aea3)
   - 2020 upgrade of @dalnefre (Dale Schumacher)'s "actor model in a tweet."
 + [Draft of SAM Pattern test strategy using dependency injection](https://gist.github.com/dfkaye/f9709a08e2cfc80a162d6f605c728e93)
