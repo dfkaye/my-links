@@ -65,6 +65,8 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [store.js](https://gist.github.com/dfkaye/4554ebea2a2173aa022283ecf9bf8ee6)
+  - store.js creates a generator function to store and merge data; includes rudimentary history API.
 + [parse-integer](https://gist.github.com/dfkaye/d2fb31db090fc52a7f79883d1ab1da1c)
   - A `parseInt()` that doesn't break on "1.5e+3", "2e7", "FF", "-0", long floats, separators, etc.
 + [`mergerino` slightly refactored](https://gist.github.com/dfkaye/da82d3b7be2f97359510973a788c0285)
