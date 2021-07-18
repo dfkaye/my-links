@@ -2,20 +2,54 @@
 
 Links to some of my blog posts, codepen demos, and github gists.
 
-## New Blog (2020)
+## dfkaye.com (2020)
 
-https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io).
+https://dfkaye.com is built with [Hugo](https://gohugo.io).
 
-## [wordpress blog posts](https://dfkaye.wordpress.com)
++ [posts](https://dfkaye.com/posts/)
++ [demos](https://dfkaye.com/demos/)
++ [tags](https://dfkaye.com/tags/)
++ [search](https://dfkaye.com/search/)
 
-+ [Custom attributes are fast, good, and cheap](https://dfkaye.wordpress.com/2019/08/16/custom-attributes-are-fast-good-and-cheap/)
+Some titles:
+
++ [Fixing `Number.toFixed()`](https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed/)
++ [JavaScript’s `eval()` and `Function() constructor`](https://dfkaye.com/posts/2021/06/02/javascripts-eval-and-function-constructor/)
++ [Custom attributes are fast, good, and cheap](https://dfkaye.com/posts/2021/05/07/custom-attributes-are-fast-good-and-cheap/)
   - Stop using CSS classes for everything.
   - Stop using BEM.
   - Use custom (non-standard) attributes in HTML and matching them with CSS attribute selectors
   - Use attributes in combination.
   - Use attribute values to reflect state.
++ [Disable JavaScript using browser dev tools](https://dfkaye.com/posts/2021/02/26/disable-javascript-using-browser-dev-tools/)
++ [Using Hugo for TDD With Javascript](https://dfkaye.com/posts/2020/12/10/using-hugo-for-tdd-with-javascript/)
++ [Data-driven testin with wheredoc](https://dfkaye.com/posts/2020/12/02/data-driven-testing-with-wheredoc/)
++ [Functionally-numeric objects](https://dfkaye.com/posts/2020/11/22/functionally-numeric-objects/)
++ [Skip links, jump links, and accessible headings](https://dfkaye.com/posts/2020/09/30/skip-links-jump-links-and-accessible-headings/)
++ [We threw out the rule book](https://dfkaye.com/posts/2020/09/19/we-threw-out-the-rule-book/)
+  + How we wrote a plain JavaScript app from scratch using Mocha for test-driven development and ParcelJS for bundling.
++ [Attribues and Entities](https://dfkaye.com/posts/2020/09/05/attributes-and-entities/)
+  + Setting up the XML feeds in Hugo.
++ [Teach Yourself Accessibility](https://dfkaye.com/posts/2020/08/27/teach-yourself-accessibility/)
++ [Accessible CSS-driven Tabs (without JavaScript)](https://dfkaye.com/posts/2020/08/23/accessible-css-driven-tabs-without-javascript/)
++ [Safe wrapper for `Object.assign()`](https://dfkaye.com/posts/2020/08/21/safer-object.assign-operations-using-a-sensible-wrapper/)
++ [JavaScript's `Object()` vs. `Object.create()`](https://dfkaye.com/posts/2020/08/20/javascripts-object-vs.-object.create/)
++ [Safer Math operations in JavaScript (using TDD)](https://dfkaye.com/posts/2020/08/17/safer-math-operations-in-javascript-using-tdd/)
++ [JavaScript's under-appreciated `Object()` constructor](https://dfkaye.com/posts/2020/08/05/javascripts-under-appreciated-object-constructor/)
+  + Instead of guard clauses or type annotations, you can use JavaScript's Object() constructor for safe type and value access.
++ [Switching to Hugo: steps, sequence, troubleshooting](https://dfkaye.com/posts/2020/05/23/switching-to-hugo-steps-sequence-troubleshooting/)
++ [Switching to Hugo: reasons, resources, more](https://dfkaye.com/posts/2020/05/22/switching-to-hugo-reasons-resources-and-more/)
++ [First post: Why Hugo?](https://dfkaye.com/posts/2019/11/11/first-post-why-hugo/)
+  + I wanted to do more than write or rant about something, like creating CSS and vanilla JavaScript demos and test suites...
+
+
+## [wordpress blog posts](https://dfkaye.wordpress.com)
+
+These are being migrated to the hugo blog, slowly but inexorably.
+
++ ~~[Custom attributes are fast, good, and cheap](https://dfkaye.wordpress.com/2019/08/16/custom-attributes-are-fast-good-and-cheap/)~~
 + [Two object definition refactorings from 2017](https://dfkaye.wordpress.com/2017/12/13/two-object-definition-refactorings-from-2017/)
-+ [Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)
++ ~~[Number.toFixed() rounding errors: broken but fixable](https://dfkaye.wordpress.com/2017/12/06/number-tofixed-rounding-errors-broken-but-fixable/)~~
 + [Why input string format matters for JavaScript (and moment.js) dates](https://dfkaye.wordpress.com/2017/11/03/why-input-string-format-matters-for-javascript-and-moment-js-dates/)
 + [Using only month/year in jqueryUI datepickers](https://dfkaye.wordpress.com/2016/11/26/using-only-month-year-controls-in-jqueryui-datepicker/)
 + [Pseudo-Comments in CSS (Or, How Browsers Parse Styles)](https://dfkaye.wordpress.com/2015/10/21/pseudo-comments-in-css-or-how-browsers-parse-styles/)
@@ -25,11 +59,13 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 + [Units are Wholes, not Parts](https://dfkaye.wordpress.com/2015/08/19/units-are-wholes-not-parts/)
 + [Problems with static inheritance \[in JavaScript\]](https://dfkaye.wordpress.com/2015/07/31/problems-with-static-inheritance/)
 + [Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
-+ [JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)
++ ~~[JavaScript’s `eval()` and `Function()`](https://dfkaye.wordpress.com/2015/07/31/javascripts-eval-and-function/)~~
 + [A TDD boilerplate project for JavaScript](https://dfkaye.wordpress.com/2015/07/29/tdd-javascript-boilerplate/)
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ [The React UI checkbox state app refactored using HTML, CSS, and vanilla JS](https://codepen.io/dfkaye/pen/QWvgKMo)
++ [CSS rgba alpha rounding bug](https://codepen.io/dfkaye/pen/oNWjpoZ)
 + [TAB traversal with grid row rearrangement](https://codepen.io/dfkaye/pen/KKgvgem)
   - preserve TAB (source) order while rearranging display order using `grid-column: #colnum`, `grid-column: span #colcount`, `grid-row: #rownum`, `grid-row: span #rowcount`, among others.
 + [Traffic-signal using CSS `:target` pseudo class](https://codepen.io/dfkaye/pen/KKzEbdY)
@@ -65,6 +101,14 @@ https://dfkaye.com is a work-in-progress (building with Hugo, https://gohugo.io)
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [SAM pattern vs. finite state machines and statecharts](https://gist.github.com/dfkaye/e084c3aac9efdaeb12e218b8a2f15f2b)
+  + JJ's quote on how the SAM pattern differs from finite state machines and statecharts.
++ [date-factory](https://gist.github.com/dfkaye/619bf93ff892ce49cbcc6ac24db097ae)
+  + Date Factory accepts strings, dates, and numbers, returns dates.
++ [handle keydown events properly](https://gist.github.com/dfkaye/88fad356ece6754604522545be7b1120)
+  + Stop form submission on Enter key, readonly input, Space key on buttons, etc.
++ [verify-generator](https://gist.github.com/dfkaye/fc19acab1ab03d0ee076876c3865dbc2)
+  + function checks whether given argument is a generator function*.
 + [store.js](https://gist.github.com/dfkaye/4554ebea2a2173aa022283ecf9bf8ee6)
   - store.js creates a generator function to store and merge data; includes rudimentary history API.
 + [parse-integer](https://gist.github.com/dfkaye/d2fb31db090fc52a7f79883d1ab1da1c)
