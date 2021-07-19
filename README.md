@@ -13,6 +13,8 @@ https://dfkaye.com is built with [Hugo](https://gohugo.io).
 
 Some titles:
 
++ [The Plus and Minus of TDD](https://dfkaye.com/posts/2021/07/19/the-plus-and-minus-of-tdd/)
+  + From a **great** comment to Cedric Beust's 2006 post, [Agile people still don't get it](https://www.beust.com/weblog/agile-people-still-dont-get-it/).
 + [Fixing `Number.toFixed()`](https://dfkaye.com/posts/2021/07/17/fixing-number.tofixed/)
 + [JavaScript’s `eval()` and `Function() constructor`](https://dfkaye.com/posts/2021/06/02/javascripts-eval-and-function-constructor/)
 + [Custom attributes are fast, good, and cheap](https://dfkaye.com/posts/2021/05/07/custom-attributes-are-fast-good-and-cheap/)
@@ -55,7 +57,7 @@ These are being migrated to the hugo blog, slowly but inexorably.
 + [Pseudo-Comments in CSS (Or, How Browsers Parse Styles)](https://dfkaye.wordpress.com/2015/10/21/pseudo-comments-in-css-or-how-browsers-parse-styles/)
 + [CSS <del>line</del> rule comments](https://dfkaye.wordpress.com/2015/09/25/css-line-comments/)
 + [Mocking – not testing – private functions in JavaScript](https://dfkaye.wordpress.com/2015/08/27/mocking-not-testing-private-functions-in-javascript/)
-+ [The Plus & Minus of TDD ~ a commenter’s great response to Cedric Beust.](https://dfkaye.wordpress.com/2015/08/27/the-plus-minus-of-tdd-a-commenters-great-response-to-cedric-beust/)
++ ~~[The Plus & Minus of TDD ~ a commenter’s great response to Cedric Beust.](https://dfkaye.wordpress.com/2015/08/27/the-plus-minus-of-tdd-a-commenters-great-response-to-cedric-beust/)~~
 + [Units are Wholes, not Parts](https://dfkaye.wordpress.com/2015/08/19/units-are-wholes-not-parts/)
 + [Problems with static inheritance \[in JavaScript\]](https://dfkaye.wordpress.com/2015/07/31/problems-with-static-inheritance/)
 + [Preserve multiline strings with uglify ](https://dfkaye.wordpress.com/2015/07/31/preserving-multiline-strings-with-uglifyjs2/)
