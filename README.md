@@ -65,7 +65,7 @@ These are being migrated to the hugo blog, slowly but inexorably.
 ## [codepen](https://codepen.io/dfkaye)
 
 + [The React UI checkbox state app refactored using HTML, CSS, and vanilla JS](https://codepen.io/dfkaye/pen/QWvgKMo)
-+ [CSS rgba alpha rounding bug](https://codepen.io/dfkaye/pen/oNWjpoZ)
++ [CSS rgba() function's alpha rounding bug](https://codepen.io/dfkaye/pen/oNWjpoZ)
 + [TAB traversal with grid row rearrangement](https://codepen.io/dfkaye/pen/KKgvgem)
   - preserve TAB (source) order while rearranging display order using `grid-column: #colnum`, `grid-column: span #colcount`, `grid-row: #rownum`, `grid-row: span #rowcount`, among others.
 + [Traffic-signal using CSS `:target` pseudo class](https://codepen.io/dfkaye/pen/KKzEbdY)
