@@ -104,8 +104,8 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
-+ [reverse-numeric](https://gist.github.com/dfkaye/74e906a149b3647e2ed118456c7e2e73)
-  - vanilla JS function reverses a string or numeric value (or even a boolean) and switches its sign (positive to negative and vice versa).
++ [reverse-to-numeric.js](https://gist.github.com/dfkaye/74e906a149b3647e2ed118456c7e2e73)
+  - vanilla JS function reverses a value *and switches its sign (positive to negative and vice versa)*.
 + `[draft blog post]` [check value types](https://gist.github.com/dfkaye/dd5591d4eb226ed5e04ba2a54d2c7115)
   -  Different ways to check value types in JavaScript without using the `typeof` operator. 
 + [reverse-string.js](https://gist.github.com/dfkaye/8cf5240f32cc2b37d89f3b700f763d76)
