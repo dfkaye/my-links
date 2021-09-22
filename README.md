@@ -104,6 +104,17 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [reverse-numeric](https://gist.github.com/dfkaye/74e906a149b3647e2ed118456c7e2e73)
+  - vanilla JS function reverses a string or numeric value (or even a boolean) and switches its sign (positive to negative and vice versa).
++ `[draft blog post]` [check value types](https://gist.github.com/dfkaye/dd5591d4eb226ed5e04ba2a54d2c7115)
+  -  Different ways to check value types in JavaScript without using the `typeof` operator. 
++ [reverse-string.js](https://gist.github.com/dfkaye/8cf5240f32cc2b37d89f3b700f763d76)
+  - reverse a string - and only a string with a for loop - because a guy on Twitter said `string.split("").reverse().join("")` is inefficient. 
++ short vanilla JS [leap year check](https://gist.github.com/dfkaye/267427427336e97e40a87d94b29b0400)
++ [alert-dialog-polyfill.js](https://gist.github.com/dfkaye/c2982533e58db456952b976d8fef26dc)
+  +  Polyfills for `alert()`, `confirm()`, and `prompt()` functions, in case Google Chrome really does remove them. 
++ `[in progress]` [Error-first Form states](https://gist.github.com/dfkaye/79a2fbb417a0a28a9ff9ba145d4ca2b3)
++ vanilla JS version of [ascii to binary](https://gist.github.com/dfkaye/c84e9a33dd122d128fe56480252d3ccf)
 + [SAM pattern vs. finite state machines and statecharts](https://gist.github.com/dfkaye/e084c3aac9efdaeb12e218b8a2f15f2b)
   + JJ's quote on how the SAM pattern differs from finite state machines and statecharts.
 + [date-factory](https://gist.github.com/dfkaye/619bf93ff892ce49cbcc6ac24db097ae)
