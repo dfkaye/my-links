@@ -104,6 +104,8 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [string-replicate.js](https://gist.github.com/dfkaye/638c346548d13bc63d5308bd9e5d15e5)
+  - Port F#'s `String.replicate(value, char)` to JavaScript, with example use in Arabic-to-Roman numeral conversion. 
 + [reverse-to-numeric.js](https://gist.github.com/dfkaye/74e906a149b3647e2ed118456c7e2e73)
   - vanilla JS function reverses a value *and switches its sign (positive to negative and vice versa)*.
 + `[draft blog post]` [check value types](https://gist.github.com/dfkaye/dd5591d4eb226ed5e04ba2a54d2c7115)
