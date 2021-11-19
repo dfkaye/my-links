@@ -104,6 +104,12 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [arrow-to-named-function.js](https://gist.github.com/dfkaye/ab929ede72acab3d6dc2274e5912ec4c)
+  - JavaScript showing how to delegate from arrow functions to named functions for better stack traces 
++ [string-to-bool.js](https://gist.github.com/dfkaye/5efd1f2aa121dd611ece7688c5791ea1)
+  - JavaScript version of python distutils.util.strtobool(val) 
++ [match-reduce.js](https://gist.github.com/dfkaye/39a7ab865dfebaf2afd2ba8242a77fc9)
+  - modified version of @metapgmr's match-reduce 
 + [string-replicate.js](https://gist.github.com/dfkaye/638c346548d13bc63d5308bd9e5d15e5)
   - Port F#'s `String.replicate(value, char)` to JavaScript, with example use in Arabic-to-Roman numeral conversion. 
 + [reverse-to-numeric.js](https://gist.github.com/dfkaye/74e906a149b3647e2ed118456c7e2e73)
