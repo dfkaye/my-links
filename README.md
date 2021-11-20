@@ -104,6 +104,8 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [short-circuit.js](https://gist.github.com/dfkaye/4b818aa0daf80b87d35e588d3acbf131)
+  -  Avoiding if-else in JavaScript with AND, OR, and ternary operators combined with true and false values in various orders and groupings. 
 + [arrow-to-named-function.js](https://gist.github.com/dfkaye/ab929ede72acab3d6dc2274e5912ec4c)
   - JavaScript showing how to delegate from arrow functions to named functions for better stack traces 
 + [string-to-bool.js](https://gist.github.com/dfkaye/5efd1f2aa121dd611ece7688c5791ea1)
