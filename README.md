@@ -104,6 +104,8 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [camel-case.js](https://gist.github.com/dfkaye/582861d5d0dc9d3f308c1cb9e474f49d)
+  - ***Improved*** JavaScript function to convert snake_case, kebab-case, and space-separated strings to camelCase. 
 + [short-circuit.js](https://gist.github.com/dfkaye/4b818aa0daf80b87d35e588d3acbf131)
   -  Avoiding if-else in JavaScript with AND, OR, and ternary operators combined with true and false values in various orders and groupings. 
 + [arrow-to-named-function.js](https://gist.github.com/dfkaye/ab929ede72acab3d6dc2274e5912ec4c)
