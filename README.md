@@ -67,6 +67,8 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [codepen](https://codepen.io/dfkaye)
 
++ [ES6 Generators as State Machines](https://codepen.io/dfkaye/pen/wvrvrze)
+  + Forked from example codepen by Ryan De La Torre.
 + [The React UI checkbox state app refactored using HTML, CSS, and vanilla JS](https://codepen.io/dfkaye/pen/QWvgKMo)
 + [CSS rgba() function's alpha rounding bug](https://codepen.io/dfkaye/pen/oNWjpoZ)
 + [TAB traversal with grid row rearrangement](https://codepen.io/dfkaye/pen/KKgvgem)
