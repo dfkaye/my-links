@@ -106,8 +106,10 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
++ [no-globals.js](https://gist.github.com/dfkaye/506c5348c256193e6df2ded9d2db6d11)
+  -  Ways to recover built-in constructor functions from literals and syntax tricks in JavaScript 
 + [hyphenate.js](https://gist.github.com/dfkaye/0c5af28ad416ed323666eeb33e2d81a5)
-  - Axel Rauschma's JavasScript *kata:* "insert hyphens between pairs of characters in a string"
+  - Axel Rauschma's JavaScript *kata:* "insert hyphens between pairs of characters in a string"
 + [camel-case.js](https://gist.github.com/dfkaye/582861d5d0dc9d3f308c1cb9e474f49d)
   - ***Improved*** JavaScript function to convert snake_case, kebab-case, and space-separated strings to camelCase. 
 + [short-circuit.js](https://gist.github.com/dfkaye/4b818aa0daf80b87d35e588d3acbf131)
