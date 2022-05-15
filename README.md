@@ -106,8 +106,98 @@ These are being migrated to the hugo blog, slowly but inexorably.
 
 ## [gists](https://gist.github.com/dfkaye)
 
-+ [no-globals.js](https://gist.github.com/dfkaye/506c5348c256193e6df2ded9d2db6d11)
-  -  Ways to recover built-in constructor functions from literals and syntax tricks in JavaScript 
++ [proxy-message.js](https://gist.github.com/dfkaye/5074dc777ce6810ab32adf5d6b5cced7)
+  - Fun with JavaScript Proxy! Over-engineered solution to Jamon Holmgren's RFP tweet...
++ [embedded-worker-blob.js](https://gist.github.com/dfkaye/14e5cc5dbe5bb38a9d80f25f54061c7f)
+  - Create web workers dynamically with an **embedded worker blobs**. Lots of possibilities here...
++ [parse-parameter-names.js](https://gist.github.com/dfkaye/51550ec0818e507aebd89a585b2c05c4)
+  - Extract parameter names from JavaScript function argument list. 
++ [algorithm-notation-examples.md](https://gist.github.com/dfkaye/cd81d767941b4d8009b396a39ce83f5b)
+  - Couple examples of algorithm notation from academic papers 
++ [repeat-until-cancel.js](https://gist.github.com/dfkaye/769acf3b17fe4ac469eacbe8c37efe9a)
+  - Pretty interesting trick spotted at Matyáš Racek's blog (focuses on stopping workers)
+  - This version demos a repeat-until-cancel, asynchronous loop with blob URL and `fetch()` 
++ [test-observable-fragment.js](https://gist.github.com/dfkaye/d7560d107b9820108bb8b1610816430e)
+  - string-based test naming style in the es6 observable proposal suite 
++ [cancel-promise.md](https://gist.github.com/dfkaye/ed2f910b37c12b918a21f1db6d8a36e8)
+  - Notes on cancelable promises: cancel a promise vs. cancel an action 
++ [remembering-freemarker.md](https://gist.github.com/dfkaye/15f60140a29e3517f89dd1796f9b7722)
+  - Testing FreeMarker template rendering with JUnit and XOM
++ [fix-callable-function.js](https://gist.github.com/dfkaye/5c2e7f121934a24e90ceee8bc655fce0)
+  - polluted prototypes on callable function objects: *a massive red herring*
++ [streams.js](https://gist.github.com/dfkaye/15d2927f2bb0be5ac1fa8b13b63bd460)
+  - Streams in the browser - ReadableStream, WritableStream... 
++ [char-frequency.js](https://gist.github.com/dfkaye/48832cb5fea6107529bb099289a3cff5)
+  - Count the frequency of each letter in a string (JavaScript) - Returns array of { character, count } tuples, sorted by count, then sorted by character. 
++ [proto-pollution.js](https://gist.github.com/dfkaye/439bf2fd739403eb1db6b879e92f8a89)
+  - prototype pollution in JavaScript - sources, detection, defenses
++ [vastly.js](https://gist.github.com/dfkaye/eba2716ac11d1daf57d50edf88f09794)
+  - even more vastly improved structure sharing, performant, cycle tolerant merge algorithm - handles prototype pollution and frozen objects 
++ [array-remove.js](https://gist.github.com/dfkaye/83e6eed19268fff6bb64f79db63700f7)
+  - `Array.remove()` methods in several flavors (index, value, all values, index at(-9), at(NaN), et al), and as opposite of `Array.filter(f)`
++ [printable.js](https://gist.github.com/dfkaye/bdfc3b0d88c5b8b18ca1da95e9f16e42)
+  - Test whether a value is "printable" (not null, undefined, NaN , empty), thus, suitable for JSX, e.g. 
++ [return-object.js](https://gist.github.com/dfkaye/54c0d04384da3d8c27beb10d804dd700)
+  - The right way to ensure a value or its fallback is an object, or return an empty object.
++ [date-distance.js](https://gist.github.com/dfkaye/e20ed464ace55cfbcefcd0adfb8e6971)
+  - Get the distance between two JavaScript Dates, in years, months, days, totalDays, et al. (key: `date.toJSON()`)
++ [custom-data-factory.js](https://gist.github.com/dfkaye/7f8eb53f14f04a03507126ee5b3c33d1)
+  - Make a custom data structure with non-enumerable iterators.
++ [typescript-headlines.md](https://gist.github.com/dfkaye/b3d34c36a7587936caad256b5e43b523)
+  - Satirical headlines replacing real terms with "TypeScript"
++ [cast.js](https://gist.github.com/dfkaye/5f061d42655277016e5c269de0d06946)
+  - Cast any value into another type in JavaScript (doubtful solution).
++ [cloning_assign-vs-create.md](https://gist.github.com/dfkaye/9d4a6fd39563dd41a6f05593b7b73d0b)
+  - Cloning objects in JavaScript: `Object.assign()` vs `Object.create()`
++ [html-comments-in-javascript.js](https://gist.github.com/dfkaye/c63dcc980ae9ec3659d78e0650c1266a)
+  - HTML comments have worked in JavaScript since 1995, *modern web development tooling advocates amazed* 
++ [object-prototypal-inheritance.md](https://gist.github.com/dfkaye/d23ab3828db872ca2aa91f88c49e4b0e)
+  - Note about objects and prototypal inheritance 
++ [Hash.js](https://gist.github.com/dfkaye/84feac3688b110e698ad3b81713414a9)
+  - Use `crypto.subtle.digest` to create hash hex string (Copy+paste+modified from https://stackoverflow.com/a/68545495)
++ [css-keylogger-attack-fix.html](https://gist.github.com/dfkaye/1893d9e1fcc8dff9be57a38be47189bd)
+  - Guard against a CSS keylogger attack using CSS 
++ [for-in-vs-for-of.md](https://gist.github.com/dfkaye/4701ae610b8d7d02dc4174c87c17f6ea)
+  - Differences between the `for...in` and `for...of` loop constructs in JavaScript 
++ [record-and-tuple.md](https://gist.github.com/dfkaye/ef923701ac9025ad4346aa96cb3b4777)
+  - Records and tuples in JavaScript 
++ [read-only.md](https://gist.github.com/dfkaye/9789c41a7d438355d564a186dc87c1f0)
+  - Handling readonly in TypeScript vs. JavaScript 
++ [assert-crash.js](https://gist.github.com/dfkaye/f74c1ec131cacb954c3171a5c1e3abcc)
+  - assert vs crash (crashing assert test) 
++ [strict-mode.md](https://gist.github.com/dfkaye/81bed1bc0a2173ddd5f750dd1212111f)
+  - Short note about strict mode ("use strict" directive) 
++ [check-instance-type.md](https://gist.github.com/dfkaye/b81dd8db09665046a911ed3164a89bd6)
+  - check instance types in JavaScript without using `instanceof`. 
++ [async-promise-iterator.js](https://gist.github.com/dfkaye/1260506378b71dac62596acc54174a97)
+  - **super** async iterator function that yields resolved promises from an array but in *resolution* order
+  - original version by *@reu (Rodrigo Navarro)*
++ [k-values.js](https://gist.github.com/dfkaye/0fbcae6cafc51f051c5ff289c0899845)
+  - `K` is a null-safe, NaN-safe, primitive-safe, object key value function for generating array *diffs* and *intersections*. 
++ [object.spread.md](https://gist.github.com/dfkaye/f71e7a2c7d1503ed6025e0b47f28f241)
+  - Short note about object spread *(and an array merge function)*
++ [object.assign.md](https://gist.github.com/dfkaye/8883d0c5b15adcc42fbe6623ff25fd94)
+  - Short note about `Object.assign()`.
++ [break-on.js](https://gist.github.com/dfkaye/c32581df7f584ba12d37995b58bc5c90)
+  - break/stop iteration in forEach, filter, map, reduce and other run-to-completion Array methods 
++ [js-let-keyword-test.js](https://gist.github.com/dfkaye/5782229943722e90db12f998776db011)
+  - where the `let` keyword is *not* a reserved word in JavaScript
++ [safe-resolve.js](https://gist.github.com/dfkaye/628c2cee106259f8e54eb2057fecf4b1)
+  - " safe promise wrapper function (made possible by async await)" (@simonhoiberg tweet) 
++ [rest-proxy.js](https://gist.github.com/dfkaye/f10a30ba138a5e9ed466301e26df4ed4)
+  - "Super low code REST client using JavaScript proxy" (@DavidWells tweet). 
++ [sam-loop-example.md ](https://gist.github.com/dfkaye/0f5a16b738a6d59847d84d24f6976523)
+  - SAM pattern, loose example of pattern to click for data, show "loading" status, request data, handle data response, and update status again. 
++ [Structured Behavioral Programming Idioms](https://gist.github.com/dfkaye/481f232b763f4d53f8be15c459b5ae0b)
+  - Notes from "structure behavioral programming idioms" paper 
++ [batch.js](https://gist.github.com/dfkaye/5f37843331f1f9cac9246f0c9521862e)
+  - batch update DOM with Worker data ( a sketch ). 
++ [async-assert.js](https://gist.github.com/dfkaye/95f3f68dc94d110a4a1f98c3b15d23ba)
+  + Use async assert() in JavaScript instead of "types". 
++ [object-creation.md](https://gist.github.com/dfkaye/450b1c97ac97df5f829ad8fb87630602)
+  + objects in JavaScript, except for literals, depend on functions. 
++ [recover-builtins.js](https://gist.github.com/dfkaye/506c5348c256193e6df2ded9d2db6d11)
+  - Ways to recover built-in constructor functions from literals and syntax tricks in JavaScript 
 + [hyphenate.js](https://gist.github.com/dfkaye/0c5af28ad416ed323666eeb33e2d81a5)
   - Axel Rauschma's JavaScript *kata:* "insert hyphens between pairs of characters in a string"
 + [camel-case.js](https://gist.github.com/dfkaye/582861d5d0dc9d3f308c1cb9e474f49d)
